@@ -4,6 +4,7 @@ import About from './about/page'
 import Contact from './contact/page'
 import Blog from './blog/page'
 
+
 const Page = () => {
   return (
     <div>
@@ -31,6 +32,7 @@ const Page = () => {
       <About/>
       <Blog/>
       <Contact/>
+    
     </div>
   )
 }
